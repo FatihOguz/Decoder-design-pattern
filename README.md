@@ -1,7 +1,7 @@
 # Decoder-design-pattern
 
 
-
+QUESTION:
 The last project didn’t do well on the market. You quit freelancing and you
 are now employed by ZırhSan A.Ş, a private company specializing in the design and production of
 exoskeleton armored suits for military personnel, equipped with various custom weapons.
@@ -23,7 +23,7 @@ should be flexible and easy to accommodate new accessories and suit types
 
 
 
-
+REPORT:
 I used decoder design pattern.
 Because of,there are different properties in accessories and suites.
 However customer want to sum total some properties.
